@@ -22,6 +22,10 @@ body {
   position: fixed;
 }
 
+.logo {
+  text-decoration: none;
+}
+
 .name {
   padding-bottom: 1rem;
 }
@@ -49,8 +53,22 @@ body {
   border-bottom: 3px solid #DB7A4E;
 }
 
-.activities {
+.activities1 {
   background-image: url("../assets/Images/hawaii.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 44rem;
+}
+
+.activities2 {
+  background-image: url("../assets/Images/greece.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 44rem;
+}
+
+.activities3 {
+  background-image: url("../assets/Images/iceland.jpg");
   background-position: center;
   background-size: cover;
   height: 44rem;

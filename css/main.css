@@ -22,6 +22,10 @@ body {
   position: fixed;
 }
 
+.logo {
+  text-decoration: none;
+}
+
 .name {
   padding-bottom: 1rem;
 }
@@ -89,7 +93,7 @@ body {
   width: 40%;
 }
 
-.logo {
+.hero__logo {
   width: 22rem;
   margin-left: 1rem;
   margin-top: 4rem;
