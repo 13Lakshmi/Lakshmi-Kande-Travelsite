@@ -116,35 +116,45 @@ body {
 }
 
 .bottom__row {
-    display: inline-flex;
+    display: inline;
     margin-bottom: 2rem;
 }
 
 .cards {
     display: inline-flex;
-    width: 0;
+    width:0;
     height: 24rem;
     margin: 0 3rem 1.8rem 0;
     padding-right: 1.5rem;
 }
-
-.first {
+.a__first{
     margin-left: 13.5rem;
+}
+.first {
     width: 17rem;
+    height:24rem;
     border-radius: 0.313rem;
     box-shadow: 0px 1px 4px;
+}
+
+.a__second{
+    margin-left: 27rem;
 }
 
 .second {
-    margin-left: 27rem;
     width: 17rem;
+    height:24rem;
     border-radius: 0.313rem;
     box-shadow: 0px 1px 4px;
 }
 
-.third {
+.a__third{
     margin-left: 40.5rem;
+}
+
+.third {
     width: 17rem;
+    height:24rem;
     border-radius: 0.313rem;
     box-shadow: 0px 1px 4px;
 
